@@ -1,0 +1,4 @@
+# Local scan and deletion logs
+Riot_Leftover_Size_Report.txt
+Riot_Cleanup_Report.txt
+*.log
